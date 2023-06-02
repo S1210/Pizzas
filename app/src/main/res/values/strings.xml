@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pizzas</string>
+    <string name="error">Error</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="connection_error">Connection error</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="no_pizzas_message">There are no pizzas. Drag down to refresh the list</string>
+    <string name="complete_message">You ordered %s pizza, price %s.</string>
+    <string name="order_successful">Order successful</string>
+</resources>
